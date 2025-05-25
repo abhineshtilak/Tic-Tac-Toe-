@@ -36,7 +36,9 @@
     color: #b0413e;
     background-color: #ffffc7;
   }
-  
+  .box:hover{
+    background-color: rgb(33, 50, 50);
+  }
   #reset-btn {
     padding: 1rem;
     font-size: 1.25rem;
